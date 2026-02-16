@@ -15,22 +15,14 @@ FIRST STUDY ABOUT DATA AND CLEAN IT
 
 
 #project work-flow
-churn_prediction/
-│
-├── data/
-│   └── churn.csv
-│
-├── notebooks/
-│   └── eda.ipynb
-│
-├── src/
-│   ├── preprocess.py
-│   ├── train.py
-│   └── predict.py
-│
-├── model/
-│   └── churn_model.pkl
-│
-├── requirements.txt
-└── README.md
+churn_prediction
+
+1 - data
+    :churn.csv
+2 - notebooks/
+    :eda.ipynb
+3 - preprocess.py
+4 -  train.py
+5 -  predict.py
+6 - README.md
 
