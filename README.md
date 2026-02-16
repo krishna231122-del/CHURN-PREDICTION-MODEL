@@ -14,15 +14,15 @@ FIRST STUDY ABOUT DATA AND CLEAN IT
 4. Business Insights 
 
 
-##project work-flow
+## project work-flow
 churn_prediction
-1.data
- churn.csv
+1. data
+   churn.csv
 2. notebooks
-  eda.ipynb
-3. preprocess.py
+   eda.ipynb
+3.  preprocess.py
 4.  train.py
 5.  predict.py
-6. README.md
+6.  README.md
 
 
