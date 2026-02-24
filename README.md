@@ -1,4 +1,3 @@
-# CHURN-PREDICTION-MODEL
 # Churn Prediction — Exploratory Data Analysis
 
 ## Objective
